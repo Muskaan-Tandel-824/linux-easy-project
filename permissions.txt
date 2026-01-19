@@ -1,4 +1,5 @@
-total 0
+#chmod used for permissions
+
 -rw-r--r--. 1 ec2-user ec2-user 0 Jan 11 11:22 readme.txt
 total 0
 -rwxr-xr-x. 1 ec2-user ec2-user 0 Jan 11 11:22 run.sh
